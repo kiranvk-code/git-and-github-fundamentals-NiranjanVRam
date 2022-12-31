@@ -25,3 +25,7 @@
     </a>
 </p>
 </details>
+
+<p align=left>
+<em>Don't hesitate to get in touch!</em>
+</p>
