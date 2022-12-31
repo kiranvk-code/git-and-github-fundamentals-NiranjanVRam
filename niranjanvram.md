@@ -29,3 +29,11 @@
 <p align=left>
 <em>Don't hesitate to get in touch!</em>
 </p>
+
+# Some of the Github features include:
+- We can create repositories to host codes, websites.
+- It contains codespaces, marketplaces, etc..
+- We can create pull requests, issues, forks, saved lists.
+- We can collaborate on several projects and perform several commits on several branches and repos.
+- We can also additionally host pages and websites using github pages.
+- It also provides github student developer pack for several free features.
